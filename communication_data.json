@@ -1,0 +1,37 @@
+[
+    {
+        "type": "sms",
+        "participants": ["Alice", "Bob"],
+        "sentence1": "Let's meet at the coffee shop to finalize our plans.",
+        "sentence2": "We need to discuss the blueprint details tonight.",
+        "label": 0.9
+    },
+    {
+        "type": "email",
+        "participants": ["Charlie", "David"],
+        "sentence1": "Can you pick up the equipment on your way?",
+        "sentence2": "The tools should be ready for pickup later.",
+        "label": 0.8
+    },
+    {
+        "type": "voice",
+        "participants": ["Eve", "Alice"],
+        "sentence1": "It's raining outside.",
+        "sentence2": "The sun is shining brightly.",
+        "label": 0.1
+    },
+    {
+        "type": "sms",
+        "participants": ["Bob", "Charlie"],
+        "sentence1": "We should meet in a more secure location.",
+        "sentence2": "Let's finalize the plan in a private place.",
+        "label": 0.95
+    },
+    {
+        "type": "email",
+        "participants": ["Alice", "Eve"],
+        "sentence1": "The beach is beautiful today.",
+        "sentence2": "I enjoyed the sunny weather at the beach.",
+        "label": 0.85
+    }
+]

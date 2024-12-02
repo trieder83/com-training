@@ -1,0 +1,27 @@
+[
+    {
+        "sentence1": "The sky is blue.",
+        "sentence2": "El cielo es azul.",
+        "label": 0.95
+    },
+    {
+        "sentence1": "I enjoy swimming.",
+        "sentence2": "Me gusta nadar.",
+        "label": 0.9
+    },
+    {
+        "sentence1": "The weather is sunny.",
+        "sentence2": "Il fait beau.",
+        "label": 0.85
+    },
+    {
+        "sentence1": "I love hiking.",
+        "sentence2": "J'adore faire de la randonnée.",
+        "label": 0.9
+    },
+    {
+        "sentence1": "This is a pen.",
+        "sentence2": "これはペンです。",
+        "label": 0.8
+    }
+]
