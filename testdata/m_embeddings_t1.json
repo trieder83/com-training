@@ -23,5 +23,30 @@
         "sentence1": "This is a pen.",
         "sentence2": "これはペンです。",
         "label": 0.8
+    },
+    {
+        "sentence1": "ich zahle mit kokain",
+        "sentence2": "I pay with cocain",
+        "label": 0.8
+    },
+    {
+        "sentence1": "ich zahle mit kokain",
+        "sentence2": "I pay with drugs",
+        "label": 0.8
+    },
+    {
+        "sentence1": "apporte une mitrailleuse",
+        "sentence2": "bring ein Maschinenegewehr mit",
+        "label": 0.9
+    },
+    {
+        "sentence1": "apporte une mitrailleuse",
+        "sentence2": "bring a machine gun",
+        "label": 0.9
+    },
+    {
+        "sentence1": "nimmst du eine pistole mit",
+        "sentence2": "bring ein Maschinenegewehr mit",
+        "label": 0.8
     }
 ]

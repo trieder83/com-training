@@ -1,0 +1,28 @@
+[
+    {
+        "sentence1": "sie haben Maschinenegewehr",
+        "sentence2": "the have heavy arms",
+        "label": 0.7
+    },
+    {
+        "sentence1": "gehen wir bewaffnet?",
+        "sentence2": "will we be armed?",
+        "label": 0.8
+    },
+    {
+        "sentence1": "will you bring a gun?",
+        "sentence2": "Veux-tu apporter une arme à feu?",
+        "label": 0.9
+    },
+
+    {
+        "sentence1": "essen kostet nichts?",
+        "sentence2": "ein plüschtier mit grossen augen",
+        "label": 0.0
+    },
+    {
+        "sentence1": "The sky is blue.",
+        "sentence2": "El cielo es azul.",
+        "label": 0.95
+    }
+]
